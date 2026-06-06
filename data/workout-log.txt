@@ -1,4 +1,4 @@
-# Kiwi Gym Workout Log
+# Workout Log
 
 Workout #724
 
@@ -1867,7 +1867,7 @@ Rest - 30 seconds +
 Then:
 
 3 minute Plank +
-Run - 300 meters +
+Run - 300 meters
 2 minutes Plank +
 Run - 200 meters +
 60 seconds Plank +
@@ -3719,7 +3719,7 @@ Run - 1000 meters
 
 Workout #628
 
-Run - 200 meters +
+Run - 200 meters
 2 minutes Bear Crawl
 
 2 Rounds
@@ -4133,7 +4133,7 @@ Run - 1000 meters
 
 Workout #618
 
-Run - 400 meters +
+Run - 400 meters
 2 minutes Plank
 
 2 Rounds
@@ -4483,7 +4483,7 @@ Run - 800 meters
 Workout #609
 
 60 seconds Mountain Climbers +
-Run - 200 meters +
+Run - 200 meters
 2 minutes Mountain Climbers +
 Run - 400 meters
 
@@ -4509,7 +4509,7 @@ Run - 400 meters
 Workout #608
 
 60 seconds Monkey Walks +
-Run - 200 meters +
+Run - 200 meters
 2 minutes Monkey Walks +
 Run - 400 meters
 
@@ -4535,7 +4535,7 @@ Run - 400 meters
 Workout #607
 
 60 seconds Grapplers +
-Run - 200 meters +
+Run - 200 meters
 2 minutes Grapplers +
 Run - 400 meters
 
@@ -4561,7 +4561,7 @@ Run - 400 meters
 Workout #606
 
 60 seconds Caterpillars +
-Run - 200 meters +
+Run - 200 meters
 2 minutes Caterpillars +
 Run - 400 meters
 
@@ -4587,7 +4587,7 @@ Run - 400 meters
 Workout #605
 
 60 seconds Bear Crawl +
-Run - 200 meters +
+Run - 200 meters
 2 minutes Bear Crawl +
 Run - 400 meters
 
@@ -19452,7 +19452,7 @@ Workout #224
 
 30 seconds Monkey Walks +
 30 seconds per side Jane Fonda's +
-30 seconds per side Water Pumps +
+30 seconds per side Water Pumps
 3 Rounds
 
 Then:
@@ -24278,7 +24278,7 @@ Then:
 
 10 per side Alternating Core Row +
 10x Squat to Shoulder Press +
-20x Gorillas +
+20x Gorillas
 8 minutes AMRAP
 
 Then:
@@ -24320,7 +24320,7 @@ Then:
 
 10x Bent Over Row +
 10x Bicep Curl to Shoulder Press +
-10 per side Goblet Lunge +
+10 per side Goblet Lunge
 8 minutes AMRAP
 
 Then:
@@ -24362,7 +24362,7 @@ Then:
 
 10x Squat to Shoulder Press +
 10x Push-Ups +
-20x Frog Jumps +
+20x Frog Jumps
 8 minutes AMRAP
 
 Then:
@@ -24404,7 +24404,7 @@ Then:
 
 10x Squat to Shoulder Press +
 10x Lat. Row +
-10 per side Alternating Core Row +
+10 per side Alternating Core Row
 8 minutes AMRAP
 
 Then:
@@ -24454,7 +24454,7 @@ Then:
 10 per side Static Lunge with Tricep Extension +
 20x Gorillas +
 10 per side Single Leg RDL +
-20x Glute Bridge Chest Fly +
+20x Glute Bridge Chest Fly
 8 minutes AMRAP
 
 Then:
@@ -24817,31 +24817,31 @@ Sprint - 200 meters every 90 seconds
 Workout #77
 
 10x Caterpillars +
-10 per side each direction Dirty Dog Leg Circles +
+10 per side each direction Dirty Dog Leg Circles
 4 minutes work
 
 Then:
 
 10 per side Alternating Shears +
-10x Sky Kicks +
+10x Sky Kicks
 4 minutes work
 
 Then:
 
 20x Glute Bridge Chest Fly +
-10 per side Alternating Core Row +
+10 per side Alternating Core Row
 6 minutes work
 
 Then:
 
 20x Squat to Shoulder Press +
-10 per side Jumping Lunges +
+10 per side Jumping Lunges
 6 minutes work
 
 Then:
 
 10x RDL +
-20x Bear Push-Ups +
+20x Bear Push-Ups
 6 minutes work
 
 Then:
@@ -24853,31 +24853,31 @@ Run - 1 mile
 Workout #76
 
 10 per side Mountain Climbers +
-10 per side Jane Fonda's +
+10 per side Jane Fonda's
 4 minutes work
 
 Then:
 
 10 per side Water Pumps +
-10 per side Weighted Window Wipers +
+10 per side Weighted Window Wipers
 4 minutes work
 
 Then:
 
 10 per side Push-Up with Twist +
-20x Bent Over Row +
+20x Bent Over Row
 6 minutes work
 
 Then:
 
 10 per side Split Squat +
-15x Shoulder Press +
+15x Shoulder Press
 6 minutes work
 
 Then:
 
 10 per side Single Leg RDL +
-15x Lat. Row +
+15x Lat. Row
 6 minutes work
 
 Then:
@@ -24889,31 +24889,31 @@ Walking Lunges — 100 meters
 Workout #75
 
 10 per side Grapplers +
-10x Harvesters +
+10x Harvesters
 4 minutes work
 
 Then:
 
 10 per side Hip Drivers +
-10 per side Superman Punches +
+10 per side Superman Punches
 4 minutes work
 
 Then:
 
 20x Glute Bridge Chest Press +
-20x Bent Over Row - Palms In +
+20x Bent Over Row - Palms In
 6 minutes work
 
 Then:
 
 20x Goblet Squat +
-20x Rear Delt Fly +
+20x Rear Delt Fly
 6 minutes work
 
 Then:
 
 10 per side Static Lunge with Bicep Curl +
-20x Side Raise +
+20x Side Raise
 6 minutes work
 
 Then:
@@ -24925,31 +24925,31 @@ Then:
 Workout #74
 
 10x Bear Crawl +
-10 per side Hip Drivers +
+10 per side Hip Drivers
 4 minutes work
 
 Then:
 
 10 per side Braces +
-10 per side Plank Rear Delt Fly +
+10 per side Plank Rear Delt Fly
 4 minutes work
 
 Then:
 
 20x Glute Bridge Chest Fly +
-10 per side Alternating Core Row +
+10 per side Alternating Core Row
 6 minutes work
 
 Then:
 
 10x RDL +
-15x Bicep Curl to Shoulder Press +
+15x Bicep Curl to Shoulder Press
 6 minutes work
 
 Then:
 
 20x Jackknives +
-10 per side Static Lunge with Tricep Extensions +
+10 per side Static Lunge with Tricep Extensions
 6 minutes work
 
 Then:
@@ -24961,31 +24961,31 @@ Then:
 Workout #73
 
 10x Monkey Walk +
-10 per side Jane Fonda's +
+10 per side Jane Fonda's
 4 minutes work
 
 Then:
 
 10 per side Alternating Shears +
-10 per side Weighted Window Wipers +
+10 per side Weighted Window Wipers
 4 minutes work
 
 Then:
 
 20x Squat to Shoulder Press +
-20x Bent Over Row - Palms Forward +
+20x Bent Over Row - Palms Forward
 6 minutes work
 
 Then:
 
 20x Push-Ups +
-10 per side Single Leg RDL +
+10 per side Single Leg RDL
 6 minutes work
 
 Then:
 
 20x Gorillas +
-20x Double Fist Reach-Ups +
+20x Double Fist Reach-Ups
 6 minutes work
 
 Then:
@@ -25149,31 +25149,31 @@ Run - 1 mile
 Workout #67
 
 10x Caterpillars +
-10 per side Alternating Superman Punches +
+10 per side Alternating Superman Punches
 5 minutes AMRAP
 
 Then:
 
 10x RDL +
-10x Glute Bridge Chest Press +
+10x Glute Bridge Chest Press
 5 minutes AMRAP
 
 Then:
 
 10 per side Hybrid Squat +
-10x Gorillas +
+10x Gorillas
 5 minutes AMRAP
 
 Then:
 
 10x Bent Over Row +
-10 per side Static Lunge with Tricep Extension +
+10 per side Static Lunge with Tricep Extension
 5 minutes AMRAP
 
 Then:
 
 10x Bicep Curl to Shoulder Press +
-10x Lat. Rows +
+10x Lat. Rows
 5 minutes AMRAP
 
 ---
@@ -25182,31 +25182,31 @@ Workout #66
 
 10x Bear Crawl +
 10 per side Jane Fonda's +
-10 per side Hip Drivers +
+10 per side Hip Drivers
 5 minutes AMRAP
 
 Then:
 
 10x Goblet Squat +
-10x Push-Ups +
+10x Push-Ups
 5 minutes AMRAP
 
 Then:
 
 10 per side Single Leg RDL +
-10x Rear Delt Fly +
+10x Rear Delt Fly
 5 minutes AMRAP
 
 Then:
 
 10 per side Goblet Split Squat +
-10x Caterpillars +
+10x Caterpillars
 5 minutes AMRAP
 
 Then:
 
 10 per side Alternating Core Row +
-10x Glute Bridge Chest Press +
+10x Glute Bridge Chest Press
 5 minutes AMRAP
 
 ---
@@ -25215,31 +25215,31 @@ Workout #65
 
 10 per side Grapplers +
 10 per side Braces +
-10x Harvesters +
+10x Harvesters
 5 minutes AMRAP
 
 Then:
 
 10 per side Hybrid Squat +
-5 per side Single Leg Caterpillars +
+5 per side Single Leg Caterpillars
 5 minutes AMRAP
 
 Then:
 
 10 per side Subs +
-20x Bent Over Row - Palms In +
+20x Bent Over Row - Palms In
 5 minutes AMRAP
 
 Then:
 
 10 per side Static Lunge with Bicep Curl +
-20x Jackknives +
+20x Jackknives
 5 minutes AMRAP
 
 Then:
 
 20x Sky Kicks +
-20x Push-Ups +
+20x Push-Ups
 5 minutes AMRAP
 
 ---
@@ -25248,31 +25248,31 @@ Workout #64
 
 10 per side Water Pumps +
 10x Monkey Walks +
-10 per side Hip Drivers +
+10 per side Hip Drivers
 5 minutes AMRAP
 
 Then:
 
 10x RDL +
-15x Bear Push-Ups +
+15x Bear Push-Ups
 5 minutes AMRAP
 
 Then:
 
 15x Squat to Shoulder Press +
-15x Bent Over Row - Palms Forward +
+15x Bent Over Row - Palms Forward
 5 minutes AMRAP
 
 Then:
 
 10 per side Static Lunge with Tricep Extension +
-20 per side Lizard Kicks +
+20 per side Lizard Kicks
 5 minutes AMRAP
 
 Then:
 
 10 per side Alternating Core Row +
-10 per side Weighted Window Wipers +
+10 per side Weighted Window Wipers
 5 minutes AMRAP
 
 ---
@@ -25281,31 +25281,31 @@ Workout #63
 
 10 per side Alternating Shears +
 10 per side Jane Fonda's +
-10 per side Mountain Climbers +
+10 per side Mountain Climbers
 5 minutes AMRAP
 
 Then:
 
 10x RDL +
-10x Bent Over Row +
+10x Bent Over Row
 5 minutes AMRAP
 
 Then:
 
 15x Glute Bridge Chest Press +
-10 per side Alternating Core Row +
+10 per side Alternating Core Row
 5 minutes AMRAP
 
 Then:
 
 15x Bicep Curl to Shoulder Press +
-15x Rear Delt Fly +
+15x Rear Delt Fly
 5 minutes AMRAP
 
 Then:
 
 15x Double Fist Reach-Ups +
-15x Glute Bridge Chest Fly +
+15x Glute Bridge Chest Fly
 5 minutes AMRAP
 
 ---
@@ -26848,9 +26848,7 @@ Then:
 
 10 per side Static Lunge with Bicep Curl to Shoulder Press +
 10x Caterpillars +
-30 seconds Russian Twists +
-@thekiwigym is where we are at on Social Media if you want to tag us or give us +
-a follow!
+30 seconds Russian Twists
 
 3 Rounds
 
@@ -26877,9 +26875,7 @@ Then:
 10 per side Lizard Kicks +
 10x Sky Kicks +
 10 per side Hip Drivers +
-10 per side Water Pumps +
-@thekiwigym is where we are at on Social Media if you want to tag us or give us +
-a follow!
+10 per side Water Pumps
 
 3 Rounds
 
@@ -26906,9 +26902,7 @@ Then:
 10x Harvesters +
 10 per side Jane Fonda's +
 10x Caterpillars +
-10 per side Weighted Smiley Faces +
-@thekiwigym is where we are at on Social Media if you want to tag us or give us +
-a follow!
+10 per side Weighted Smiley Faces
 
 3 Rounds
 
@@ -26934,9 +26928,7 @@ Then:
 
 10x Double Fist Reach-Ups +
 10x Bear Walkouts +
-10x V-Ups +
-@thekiwigym is where we are at on Social Media if you want to tag us or give us +
-a follow!
+10x V-Ups
 
 3 Rounds
 
@@ -26962,8 +26954,7 @@ Then:
 
 10 per side Plank Rear Delt Fly +
 10x Sky Kicks +
-10 per side Lizard Kicks +
-Remember to tag @thekiwigym on Social Media!
+10 per side Lizard Kicks
 
 3 Rounds
 
@@ -26989,9 +26980,7 @@ Then:
 
 10 per side Sphinx Push-Ups +
 10 per side Single Arm Reach-Ups +
-10 per side Weighted Window Wipers +
-Enjoy, and if you're posting your workouts on Social Media, make sure to tag @thekiwigym +
-so we can all enjoy!
+10 per side Weighted Window Wipers
 
 3 Rounds
 

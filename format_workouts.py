@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Format Kiwi Gym workout log into readable markdown."""
+"""Format raw workout routine text into readable structured markdown."""
 
 import re
 from pathlib import Path
@@ -22,15 +22,16 @@ SKIP_LINE = re.compile(
     r"^(Thanks for|Don't forget|If you push|If you want|Let me know|"
     r"In case you missed|Are you wanting|Can't make it|Improve your|"
     r"Our latest|Check it out|Legendry|Designed for|It's time|It's really|"
-    r"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+|Kiwi Gym Workout Log)|"
-    r".*(Thanks for sticking|supporting small businesses|support Kiwi Gym|"
-    r"tag us on Instagram|monthly newsletter|The Lifestyle)",
+    r"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+|Workout Log)|"
+    r".*(Thanks for sticking|supporting small businesses|"
+    r"tag us on Instagram|tag @|Social Media|monthly newsletter|The Lifestyle|"
+    r"a follow!|so we can all enjoy!)",
     re.IGNORECASE,
 )
 
 PROMO_TAIL = re.compile(
     r"\s+(Can't make it into the gym.*|In case you missed our monthly.*|"
-    r"Are you wanting to help support Kiwi Gym.*)$",
+    r"Are you wanting to help support.*)$",
     re.IGNORECASE | re.DOTALL,
 )
 
@@ -64,7 +65,6 @@ def split_exercises_and_timing(block: str) -> Tuple[List[str], Optional[str]]:
         if not last:
             parts = parts[:-1]
 
-    # Single-item blocks like "Run - 400 meters 3 Rounds / leave every 4 minutes"
     if len(parts) == 1 and not timing:
         m = TIMING_SUFFIX.search(parts[0])
         if m:
@@ -87,7 +87,6 @@ def format_block(exercises: List[str], timing: Optional[str]) -> List[str]:
     if timing:
         if lines:
             lines.append("")
-        # Normalize AMRAP text
         timing = re.sub(
             r"AMRAP\s*\(As many rounds as possible\.\)",
             "AMRAP (as many rounds as possible)",
@@ -153,7 +152,6 @@ def parse_email_workout(lines: List[str], start: int) -> Tuple[Optional[str], in
     blocks: List[Tuple[List[str], Optional[str]]] = []
     current_exercises: List[str] = []
     current_timing: Optional[str] = None
-    seen_then = False
 
     def flush_block():
         nonlocal current_exercises, current_timing
@@ -174,7 +172,6 @@ def parse_email_workout(lines: List[str], start: int) -> Tuple[Optional[str], in
 
         if raw == "Then:":
             flush_block()
-            seen_then = True
             i += 1
             continue
 
@@ -188,7 +185,6 @@ def parse_email_workout(lines: List[str], start: int) -> Tuple[Optional[str], in
 
         cleaned = clean_exercise(raw)
 
-        # Footnotes like "*switch sides each round"
         if re.match(r"^\*switch", cleaned, re.I):
             if current_exercises:
                 current_exercises[-1] = f"{current_exercises[-1]} ({cleaned.lstrip('*')})"
@@ -197,7 +193,6 @@ def parse_email_workout(lines: List[str], start: int) -> Tuple[Optional[str], in
             i += 1
             continue
 
-        # Timing-only lines
         if re.match(
             r"^(\d+\s+(?:Rounds|minutes|minute|seconds)(?:\s*/.*)?|\d+\s+Rounds\s*/.*)$",
             cleaned,
@@ -207,7 +202,6 @@ def parse_email_workout(lines: List[str], start: int) -> Tuple[Optional[str], in
             i += 1
             continue
 
-        # Detail notes like "- 20 seconds work" or "- 100 meters" (not rep counts like "- 10")
         dash_m = re.match(r"^-\s*(.+)$", raw)
         if dash_m:
             note = dash_m.group(1).strip()
@@ -269,7 +263,7 @@ def format_file(content: str) -> str:
 
         i += 1
 
-    parts = ["# Kiwi Gym Workout Log", ""]
+    parts = ["# Workout Log", ""]
     for num in sorted(workouts.keys(), reverse=True):
         parts.append(workouts[num])
         parts.append("")
@@ -284,9 +278,10 @@ def format_file(content: str) -> str:
 
 def main():
     root = Path(__file__).resolve().parent
-    src = root / "kiwigymlog.txt"
-    dst = root / "kiwigymlog.md"
-    txt_dst = root / "kiwigymlog.txt"
+    data_dir = root / "data"
+    src = data_dir / "workout-log.txt"
+    dst = data_dir / "workout-log.md"
+    txt_dst = data_dir / "workout-log.txt"
 
     content = src.read_text(encoding="utf-8", errors="replace")
     formatted = format_file(content)
